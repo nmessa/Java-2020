@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Base Conversion Demo</label>
+	</settings>
+	<users>
+		<user>
+			<path>Base Conversion Demo.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Base Conversion Demo.jcp</path>
+		</project>
+	</projects>
+</workspace>
