@@ -12,7 +12,7 @@ public class Cryptology {
     
     public static void main(String[] args) {
     	//Declare variables
-    	String encryptSentence, decryptSentence;
+    	String sentence, encryptSentence, decryptSentence;
     	
     	//Create a Crypto object
     	//Add code here
